@@ -4,7 +4,7 @@
 
 //go:build windows
 
-package main
+package service
 
 import (
 	"fmt"
