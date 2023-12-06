@@ -1,2 +1,10 @@
+github.com/nectunt/agent/install v0.0.0-20231206002504-a68d97fa7ede h1:Xpg4UoFblZ8VU7E3fC+TMARE4cnYeV5dbq3W/v1oLjo=
+github.com/nectunt/agent/install v0.0.0-20231206002504-a68d97fa7ede/go.mod h1:yfY/9RvHeQkwF+ugtgRRh0dN99hlZcVxedlqV+w3798=
+github.com/nectunt/agent/manage v0.0.0-20231206002504-a68d97fa7ede h1:WpkcXEcWDK96j5nDPQXltHsk5t4fx4ZEc3fXrAWJ2Ns=
+github.com/nectunt/agent/manage v0.0.0-20231206002504-a68d97fa7ede/go.mod h1:Ydnzf0cjwq91rAS9biR1o42P1O7Mi3RApd98nbv6/ds=
+github.com/nectunt/agent/service v0.0.0-20231206002504-a68d97fa7ede h1:A4Q3IyaGs0F7yR67SDjApA83HgRlXYMRRelUhs4ICgk=
+github.com/nectunt/agent/service v0.0.0-20231206002504-a68d97fa7ede/go.mod h1:hKq8OqovygI3O+zJ6/SkKuF0E3YRqonKVTmN4O2wXZA=
+github.com/nectunt/agent/utils v0.0.0-20231204204525-683e9d861aa9 h1:eXWyoLLNzShIwPOpvtDjJMXPOfod0Rbhk54qVD4v6mI=
+github.com/nectunt/agent/utils v0.0.0-20231204204525-683e9d861aa9/go.mod h1:vsePujXIZnWPTWdcH9qH59g9+tJhTtKPMiUA6jDTl9o=
 golang.org/x/sys v0.15.0 h1:h48lPFYpsTvQJZF4EKyI4aLHaev3CxivZmv7yZig9pc=
 golang.org/x/sys v0.15.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
